@@ -21,7 +21,9 @@ ${data.dependencies}
 ${data.usage}
 ${renderSection(data.license)}
 ## Contributors 😃
+\`\`\`
 ${data.contributors}
+\`\`\`
 Contact me at ${data.email}
 ## Tests 🧪
 To run tests, run these commands:
