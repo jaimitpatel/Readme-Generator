@@ -63,7 +63,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
         .then((inquirerAnswers) => {
-            console.log("Generating.... Please wait....");
+            console.log("Generating Readme, please check the dist/ folder.");
             writeToFile(`./dist/README.md`, generateMarkdown({ ...inquirerAnswers }));
         })
 }
