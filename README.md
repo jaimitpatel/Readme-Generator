@@ -17,6 +17,10 @@ To install dependencies, run these commands:
 ```
 npm i
 ```
+To run the app, run this command:
+```
+node index
+```
 ## Video Demo
 https://user-images.githubusercontent.com/3880463/156900871-524f8ba4-8273-40d0-a4b4-23b079eef63f.mp4
 
