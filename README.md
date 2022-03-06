@@ -5,13 +5,15 @@
 ## Description 📝
 This is a README generator that uses inquirer and node to allow users to create a readme for their projects.
 ## Table of Contents 🗒
-* [Installations](#dependencies)
-* [Usage](#usage)
+* [Installations](#Installations-dependencies-)
+* [Video Demo](#video-demo)
+* [Screenshots](#screenshots)
+* [Usage](#usage-)
+* [License](#license-)
+* [Contributors](#contributors-)
+* [Test](#tests)
+* [Technologies Used](#technologies-used)
 
-* [License](#license)
-
-* [Contributors](#contributors)
-* [Test](#test)
 ## Installations (Dependencies) 💻
 To install dependencies, run these commands:
 ```
