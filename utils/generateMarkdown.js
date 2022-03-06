@@ -7,11 +7,11 @@ ${renderBadge(data.license)}
 ## Description 📝
 ${data.description}
 ## Table of Contents 🗒
-* [Installations](#dependencies)
-* [Usage](#usage)
+* [Installations](#installations-dependencies-)
+* [Usage](#usage-)
 ${renderLink(data.license)}
-* [Contributors](#contributors)
-* [Test](#test)
+* [Contributors](#contributors-)
+* [Tests](#tests-)
 ## Installations (Dependencies) 💻
 To install dependencies, run these commands:
 \`\`\`
